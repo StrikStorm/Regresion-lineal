@@ -10,3 +10,4 @@ Este Notebook tiene la intencion de ejemplificar la demostracion de como hacer u
 despues se realiza de forma automatizada para validar que esto se realizo de manera adecueda.
 
 [Base de Datos](https://github.com/StrikStorm/Regresion-lineal/blob/main/Felicidad%20y%20GDP.csv)
+[Reporte en Jupyter Notebook](https://github.com/StrikStorm/Regresion-lineal/blob/main/Regrecion_lineal.ipynb)
